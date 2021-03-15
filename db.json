@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "First_name": "Leanne Graham",
+      "Last_name": "Bret",
+      "Gender": "Male",
+      "Date_of_Birth": "21/10/1999",
+      "Experience": "10"
+    },
+    {
+      "id": 2,
+      "First_name": "Leanne Graham",
+      "Last_name": "Bret",
+      "Gender": "Male",
+      "Date_of_Birth": "21/10/1999",
+      "Experience": "10"
+    },
+    {
+      "id": 3,
+      "First_name": "Leanne Graham",
+      "Last_name": "Bret",
+      "Gender": "Male",
+      "Date_of_Birth": "21/10/1999",
+      "Experience": "10"
+    },
+    {
+      "id": 4,
+      "First_name": "Leanne Graham",
+      "Last_name": "Bret",
+      "Gender": "Male",
+      "Date_of_Birth": "21/10/1999",
+      "Experience": "10"
+    },
+    {
+      "id": 5,
+      "First_name": "Leanne Graham",
+      "Last_name": "Bret",
+      "Gender": "Male",
+      "Date_of_Birth": "21/10/1999",
+      "Experience": "10"
+    }
+  ],
+  "medicine": [
+    {
+      "id": 1,
+      "Name": "paracetamol",
+      "Manufacturor_Name": "Cipla",
+      "Price": "1200",
+      "Stock": "100",
+      "Discount": "3%"
+    },
+    {
+      "id": 2,
+      "Name": "paracetamol",
+      "Manufacturor_Name": "Cipla",
+      "Price": "1200",
+      "Stock": "100",
+      "Discount": "3%"
+    },
+    {
+      "id": 3,
+      "Name": "paracetamol",
+      "Manufacturor_Name": "Cipla",
+      "Price": "1200",
+      "Stock": "100",
+      "Discount": "3%"
+    },
+    {
+      "id": 4,
+      "Name": "combiflam",
+      "Manufacturor_Name": "Cipla",
+      "Price": "1200",
+      "Stock": "100",
+      "Discount": "3%"
+    }
+  ]
+}
